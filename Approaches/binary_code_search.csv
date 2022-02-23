@@ -1,0 +1,14 @@
+﻿Approach;Output;Dataset;;;Index;;Input;Retrieval;;;;Presentation;Language
+;;;;;;;;;;;;;
+;General Code;Specific Open Source Projects;Super Repositories;Others;Inverted;Graph Index;Binary;Textual Similarity;Graph Similarity;Execution Trace;Embedding Vector Similarity; Search Engine;
+;;;;;;;;;;;;;
+Tracelets~\cite{david_tracelet_based_2014};Yes;;Yes;;Yes;;Yes;;Yes;Yes;;Yes;Binary (x86)
+;;;;;;;;;;;;;
+Rendezvous~\cite{khoo_rendezvous_2013};Yes;;;Yes;Yes;Yes;Yes;Yes;;Yes;;Yes;C, C++
+;;;;;;;;;;;;;
+BINGO~\cite{chandramohan2016bingo};Yes;;;Yes;;;Yes;;Yes;Yes;;Yes;Binary C
+;;;;;;;;;;;;;
+BINGO-E~\cite{xue_accurate_2019};Yes;;;Yes;;;Yes;;Yes;Yes;;Yes;Binary C
+;;;;;;;;;;;;;
+Gemini~\cite{xu_neural_2017};Yes;Yes;;;;Yes;Yes;;;;Yes;Yes;Binary C
+;;;;;;;;;;;;;

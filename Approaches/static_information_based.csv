@@ -1,0 +1,104 @@
+﻿Category;Approach;Output;;Dataset;;;;;Indexing;;;;Input;;;;;;;Retrieval;;;;;Presentation;;;Languages
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; General Code; API Usage; Specific Open Source Projects; Super Repositories; Developer Q\&A; Language/API Documentation; Others; Inverted; Database (B+ Tree); Graph Index; File Prefix; Natural Language; Code Fragment; Input/Ouput; Software Specification; Query Language; Binary; Class/Interface Type; Textual Similarity; Graph Similarity; Solver; Type Links; Embedding Vector Similarity; Search Engine; Idea; IDE Extension;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Keyword-based;Jsearch~\cite{sindhgatta_using_2006};Yes;;;;;;;;;Yes;;;Yes;;;;;;Yes;;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;CoCaBu~\cite{sirres_augmenting_2018_main_};Yes;;;Yes;Yes;;;Yes;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Murakami et al.~\cite{murakami_code_2014};Yes;;Yes;;;;;;Yes;;;;Yes;;;;;;Yes;;;;;;Yes;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;McMillan et al.~\cite{mcmillan_recommending_2010};;Yes;Yes;;;;;Yes;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Exemplar~\cite{mcmillan_exemplar_2012,grechanik_search_2010,grechanik_exemplar:_2010};Yes;;;Yes;;;;Yes;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Example Overflow~\cite{zagalsky_example_2012};Yes;;;;Yes;;;Yes;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Selene~\cite{takuya_spontaneous_2011,murakami_optimizing_2012};Yes;;Yes;;;;;Yes;;;;;Yes;;;;;;Yes;;;;;Yes;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;SoCeR~\cite{islam_socer_2020};Yes;;Yes;;;;;Yes;;;;Yes;;;;;;;;;;;Yes;Yes;;;Python
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Structure-based;Aroma~\cite{luan_aroma_2019};Yes;;;Yes;;;;;Yes;;;;Yes;;;;;;;Yes;;;Yes;Yes;;;Java, Javascript, Python
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+%Hack,;Prospector~\cite{mandelin_jungloid_2005};Yes;;;;;Yes;;;;;;;;;;;;Yes;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Portfolio~\cite{mcmillan_portfolio_2011,mcmillan_portfolio_2013, collin_mcmillan_finding_2011};Yes;;Yes;;;;;Yes;;;;Yes;;;;;;;Yes;Yes;;;;Yes;;;C, C++, Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;XSnippet~\cite{sahavechaphan_xsnippet:_2006};Yes;;;;;Yes;;;Yes;;;;;;;;;Yes;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;PARSEWeb~\cite{thummalapenta_parseweb:_2007};Yes;;;;Yes;Yes;;;;;Yes;;;;;;;Yes;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Chan et al.~\cite{chan_searching_2012};;Yes;Yes;;;;;;;Yes;;Yes;;;;;;;Yes;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;RACS~\cite{li_relationship_aware_2016};;Yes;Yes;;Yes;Yes;;;Yes;;;Yes;;;;;;;Yes;Yes;;;;Yes;;;Javascript
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;YOGO~\cite{premtoon_semantic_2020};Yes;;;;Yes;;;;Yes;;;;Yes;;;;;;;Yes;;;;Yes;;;Python, Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Akhin et al.~\cite{akhin_search_2012};Yes;;Yes;;;;;;;Yes;;;Yes;;;;;;;Yes;;;;;Yes;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Coogle~\cite{sager_detecting_2006};Yes;;Yes;;;;;;;;;;Yes;;;;;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Mendel~\cite{lozano_mendel_2011};Yes;;Yes;;;;;;;;;;Yes;;;;;;;Yes;;;;Yes;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Hsu and Lin.~\cite{hsu_block_structured_2011};Yes;;;Yes;;;;Yes;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Sourcerer~\cite{bajracharya_sourcerer:_2006};Yes;;;Yes;;;;Yes;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Murakami et al.~\cite{murakami_code_2014};Yes;;Yes;;;;;;Yes;;;;Yes;;;;;;Yes;;;;;;Yes;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Barbosa et al.~\cite{barbosa_recommendation_2012, barbosa_heuristic_2012};Yes;;;Yes;;;;;Yes;;;;Yes;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;AUSearch~\cite{asyrofi_ausearch_2020};;Yes;;Yes;;;;;;;;;;;;Yes;;;;;;Yes;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;MAPO~\cite{xie_mapo_2006};Yes;Yes;;;;;;;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;SUSHI~\cite{nguyen_code_2019};Yes;;;;;;Yes;;;;;;Yes;;;;Yes;;Yes;;;;Yes;Yes;;;Android
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;PropER-Doc~\cite{mar_recommending_2011};;Yes;Yes;;;;;;;;;;;;Yes;;;;;;;Yes;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;PRIME~\cite{mishne_typestate_based_2012};Yes;Yes;Yes;;;;;;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;LibFinder~\cite{ouni_search_based_2017};Yes;;;Yes;;;;;;;;;Yes;;;;;;;;;;Yes;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;SWIM~\cite{raghothaman_swim_2016};Yes;Yes;;Yes;;;;;;;;Yes;;;;;;;Yes;;;;;Yes;;;C\#
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;APIREC~\cite{nguyen_api_2016};Yes;;;;;;;;;;;;Yes;;;;;;Yes;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Lee et al.~\cite{lee2018comment};;Yes;;Yes;;;;;;;;Yes;;;;;;;Yes;;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Interface-driven;Strathcona~\cite{holmes_strathcona_2005,holmes_using_2005,holmes_approximate_2006};;;;;;;;;Yes;;;;Yes;;;;;Yes;;;;;;;;Yes;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Lemos et al.~\cite{lemos_can_2015};Yes;;;Yes;;;;;Yes;;;Yes;;;;;;Yes;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Semantic-based;ANNE~\cite{vinayakarao_anne_2017};Yes;;;;Yes;;;;;;;Yes;;;;;;;Yes;;;;;Yes;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;CodeMatcher~\cite{liu_simplifying_2020};Yes;;;Yes;;;;Yes;;;;Yes;;;;;;;Yes;;;;;Yes;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Hill et al.~\cite{hill_improving_2011};Yes;;Yes;;;;;;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;JECO~\cite{arwan_source_2015};Yes;;;;Yes;;;;;;;Yes;;;;;;;Yes;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Vinayakarao~\cite{vinayakarao_spotting_2015};Yes;;;;Yes;;;;Yes;;;;Yes;;;;;;Yes;;;;;;Yes;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;McMillan et al.~\cite{mcmillan_recommending_2012};Yes;;;Yes;;;;;Yes;;;Yes;;;;;;;Yes;;;;;Yes;;;Java, C\#
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Lancer~\cite{zhou_lancer_2019};Yes;;;Yes;;;;;Yes;;;;Yes;;;;;;Yes;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Test Recommender~\cite{pham_automatically_2015};Yes;;Yes;;;;;;Yes;;;;Yes;;;;;;Yes;;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Constraint-based;Satsy~\cite{stolee_finding_2012,stolee_toward_2012,stolee_solving_2014};Yes;;Yes;;;;;Yes;;;;;Yes;Yes;;;;;;;Yes;;;Yes;Yes;;Java, C
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Extended Satsy~\cite{stolee_code_2016};Yes;;Yes;;;;;Yes;;Yes;;;;Yes;Yes;;;;;Yes;Yes;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Quebio~\cite{jiang_research_2018};Yes;;;Yes;;;;;;;;;Yes;Yes;;;;;;Yes;Yes;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Extended Quebio~\cite{chen_enhancing_2020};Yes;;;Yes;Yes;;;;;;;Yes;;Yes;;;;;Yes;;Yes;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Clone-based;Keivanloo et al.~\cite{keivanloo_spotting_2014};Yes;;;Yes;;;;Yes;;;;;;;;;;;Yes;;;;;Yes;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;CodeNuance~\cite{liu_supporting_2018};Yes;;;Yes;;;;Yes;;;;;;;;;;;Yes;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Rahman and Roy~\cite{rahman_use_2014};Yes;;;Yes;;;;Yes;;;;;Yes;;;;;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;MUSE~\cite{moreno_how_2015};;Yes;Yes;;;;;;;;;;;;;;;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;

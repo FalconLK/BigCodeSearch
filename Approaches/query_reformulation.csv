@@ -1,0 +1,80 @@
+﻿Category;Approach;Output;;Database;;;;;;Index;;;;Input;;;Retrieval;;;;Presentation;;;Language
+;;;;;;;;;;;;;;;;;;;;;;;;
+;;General Code;API Usage;Specific Open Source Projects;Super Repositories;Developer Q&A or Tutorial;Language/API Documentation;Code Clone;Challenge/Competition;Inverted;Database (B+ Tree);ID-based;Positional;Natural Language;Code Fragment;Query Language;Textual Similarity;Matrix Computation;Graph Similarity;Embedding Vector Similarity;Search Engine;Idea;IDE Extension;
+;;;;;;;;;;;;;;;;;;;;;;;;
+Feedback-driven;Mica~stylos_mica_2006;;Yes;Yes;;;Yes;;;Yes;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;SAS~bajracharya_searching_2010;;Yes;;Yes;;;;;;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Conquer~roldan_vega_conquer_2013;Yes;;Yes;;;;;;;;;;Yes;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Extended Conquer~hill_nl_based_2014;Yes;;Yes;;;;;;;;;;Yes;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Wang et al.~wang_active_2014;Yes;;Yes;;;;;;;;;;Yes;;;Yes;;;;Yes;;;C,C++
+;;;;;;;;;;;;;;;;;;;;;;;;
+;CodeExchange~martie_codeexchange:_2015;Yes;;;Yes;;;;;Yes;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;CodeLikeThis~martie_understanding_2017;Yes;;;Yes;;;;;Yes;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;INQRES~lu_interactive_2018;Yes;;Yes;;;;;;;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Cosoch~li_reinforcement_2019;Yes;;;;Yes;;;;;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Contextual Search~hill_automatically_2009;Yes;;;Yes;;;;;;;;;Yes;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Refoqus~haiduc_query_2013;Yes;;Yes;;;;;;Yes;;;;Yes;;;Yes;;;;;;Yes;Java, C++
+;;;;;;;;;;;;;;;;;;;;;;;;
+;ALICE~sivaraman_active_2019;Yes;;Yes;;;;;;;;;;Yes;;Yes;;;;Yes;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;SNIPR~sanchez_snipr_2013;;;;;;;;;;;;;Yes;;Yes;Yes;;;;;Yes;;
+;;;;;;;;;;;;;;;;;;;;;;;;
+;DeepAPIRec~chen_generative_2019;;Yes;;Yes;;;;;;;;;;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+AQR;QECK~nie_query_2016;Yes;;;Yes;Yes;;;;Yes;;;;Yes;;;Yes;;;;Yes;;;Android
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Yang et al.~yang_inferring_2012;Yes;;Yes;;;;;;;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Durão et al.~durao_applying_2008;Yes;;Yes;;;;;;;;Yes;;Yes;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;NLP2CODE~campbell_nlp2code_2017;Yes;Yes;;;Yes;;;;;;;;Yes;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;SCP~sisman_assisting_2013;Yes;;Yes;;;;;;;;;Yes;Yes;;;Yes;;;;Yes;;;Java, C, C++
+;;;;;;;;;;;;;;;;;;;;;;;;
+;QExpandator~satter_search_2016;Yes;;Yes;;;;;;;;;;Yes;;;;Yes;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;FWSMF~satter_similarity_based_2017;Yes;;Yes;;;;;;Yes;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;CodeX~satter_retrieving_2017;Yes;;Yes;;;;;;Yes;;;;Yes;;;Yes;;;;;Yes;;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;
+;SnippetGen~huang_snippetgen_2017,yang_iecs_2017,wu_code_2019;Yes;;;Yes;;;;;Yes;;;;Yes;;;Yes;;;;Yes;;;C\#
+;;;;;;;;;;;;;;;;;;;;;;;;
+;CodeGenie 2.0~lemos_thesaurus_based_2014;Yes;;;Yes;;;;;Yes;;;;Yes;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;CoCaBu~sirres_augmenting_2018_main_;Yes;;;Yes;Yes;;;;Yes;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;FaCoY~kim_facoy_2018;Yes;;;Yes;Yes;;Yes;Yes;Yes;;;;;Yes;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;CodeHow~lv_codehow_2015;Yes;;;Yes;;;;;Yes;;;;Yes;;;Yes;;;;;;Yes;C\#
+;;;;;;;;;;;;;;;;;;;;;;;;
+;RACK~rahman_rack_2017,rahman_automatic_2019;Yes;;;Yes;Yes;Yes;;;;;;;Yes;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;NLP2API~rahman_effective_2018;Yes;;;;Yes;;;;Yes;;;;Yes;;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;NQE~liu_neural_2019;Yes;;;Yes;Yes;;;;Yes;;;;Yes;;;;;;Yes;Yes;;;Android
+;;;;;;;;;;;;;;;;;;;;;;;;
+;SENSORY~ai_sensory_2019;Yes;;;Yes;;;;;;;Yes;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;QESR~jin_query_2019;Yes;;;Yes;;Yes;;;Yes;;;;Yes;;;Yes;;;;Yes;;;Android, Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;QECC~huang_query_2018;Yes;;;Yes;;;;;Yes;;;;Yes;;;Yes;;;;Yes;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;GKSR~huang_qe_integrating_2019;Yes;;;Yes;;;;;Yes;;;;Yes;;;Yes;;;;Yes;;;C\#, Java, Android
+;;;;;;;;;;;;;;;;;;;;;;;;
+;QESC~huang_deep_2019,zou2020query;Yes;;;Yes;;Yes;;;Yes;;;;Yes;;;Yes;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+QL;AutoQuery~wang_autoquery_2016;Yes;;Yes;;;;;;;Yes;;;;Yes;;;;Yes;;Yes;;;C, C++
+;;;;;;;;;;;;;;;;;;;;;;;;
+;SnipMatch~wightman_snipmatch_2012;Yes;;Yes;;;;;;;;;;Yes;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;
