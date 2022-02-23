@@ -1,0 +1,126 @@
+﻿Category;Abbreviation;Full Name;Count
+;;;
+Conference;ICSE;International Conference on Software Engineering;20
+;;;
+;ASE;Automated Software Engineering;13
+;;;
+;MSR;International Conference on Mining Software Repositories;8
+;;;
+;SUITE;Workshop on Search-Driven Development-Users, Infrastructure, Tools and   Evaluation;5
+;;;
+;PLDI;ACM SIGPLAN Conference on Programming Language Design and Implementation;4
+;;;
+;OOPSLA;Object-Oriented Programming, Systems, Languages \& Applications;4
+;;;
+;RSSE;International Workshop on Recommendation Systems for Software Engineering;4
+;;;
+;SANER;IEEE International Conference on Software Analysis, Evolution and   Reengineering;3
+;;;
+;COMPSAC;Annual Computer Software and Applications Conference;3
+;;;
+;CSMR-WCRE;IEEE Conference on Software Maintenance, Reengineering, and Reverse   Engineering;3
+;;;
+;ESEC/FSE;European Software Engineering Conference and Symposium on the Foundations   of Software Engineering;2
+;;;
+;SAC;ACM Symposium on Applied Computing;2
+;;;
+;WWW;The World Wide Web Conference;2
+;;;
+;SBES;Brazilian Symposium on Software Engineering;2
+;;;
+;SCAM;International Working Conference on Source Code Analysis \&   Manipulation;2
+;;;
+;VL/HCC;Visual Languages and Human-Centric Computing;2
+;;;
+;ISSTA;International Symposium on Software Testing and Analysis;1
+;;;
+;MAPL;ACM SIGPLAN International Workshop on Machine Learning and Programming   Languages;1
+;;;
+;FASE;International Conference on Fundamental Approaches to Software   Engineering;1
+;;;
+;RecSys;ACM Conference on Recommender Systems;1
+;;;
+;ACIIDS;Intelligent Information and Database Systems;1
+;;;
+;UIST;ACM Symposium on User Interface Software and Technology;1
+;;;
+;WEH;International Workshop on Exception Handling;1
+;;;
+;SBCARS;Brazilian Symposium on Software Components, Architectures, and Reuse;1
+;;;
+;ACL;Annual Meeting of the Association for Computational Linguistics;1
+;;;
+;ICoICT;International Conference on Information and Communication Technology;1
+;;;
+;WSDM;ACM International Conference on Web Search and Data Mining;1
+;;;
+;ICCIT;International Conference on Computer and Information Technology;1
+;;;
+;CCS;ACM SIGSAC Conference on Computer and Communications Security;1
+;;;
+;RCoSE;International Workshop on Rapid Continuous Software Engineering;1
+;;;
+;Programming;International Conference on the Art, Science and Engineering of   Programming;1
+;;;
+;Internetware;Asia-Pacific Symposium on Internetware;1
+;;;
+;MOBILESoft;International Conference on Mobile Software Engineering and Systems;1
+;;;
+;IWSC;International Workshop on Software Clones;1
+;;;
+;SERVICES;IEEE World Congress on Services;1
+;;;
+;ASC;ACM Southeast Conference;1
+;;;
+;ICSEW;International Conference on Software Engineering Workshops;1
+;;;
+;IJCNN;International Joint Conference on Neural Networks;1
+;;;
+;CIRCLE;CEUR Workshop;1
+;;;
+;;Subtotal (Conference);102
+;;;
+Journal;TSE;Transactions on Software Engineering;3
+;;;
+;EMSE;Empirical Software Engineering;3
+;;;
+;JSS;Journal of Systems and Software;3
+;;;
+;IEEE Access;IEEE Access;3
+;;;
+;SPE;Practice and Experience;3
+;;;
+;TOSEM;Transactions on Software Engineering and Methodology;2
+;;;
+;ASE\_Journal;Automated Software Engineering Journal;2
+;;;
+;IST;Information and Software Technology;2
+;;;
+;TSC;IEEE Transactions on Services Computing;2
+;;;
+;SCIS;Science China Information Sciences;2
+;;;
+;JIFS;Applications in Engineering and   Technology;1
+;;;
+;ISF;Information Systems Frontiers;1
+;;;
+;JPCS;Conference Series;1
+;;;
+;PACMPL;ACM on Programming Languages;1
+;;;
+;IEEE Software;IEEE Software;1
+;;;
+;KBS;Knowledge-Based Systems;1
+;;;
+;KIES;International Journal of Knowledge-based and Intelligent Engineering   Systems;1
+;;;
+;WUJNS;Wuhan University Journal of Natural Sciences;1
+;;;
+;JIT;Journal of Internet Technology;1
+;;;
+;SEKE;International Journal of Software Engineering and Knowledge Engineering;1
+;;;
+;;Subtotal (Journal);35
+;;;
+;;Total;137
+;;;
