@@ -1,0 +1,22 @@
+﻿Category;Approach;Output;;Dataset;;Index;;;Input;;;;;;Retrieval;;;;Presentation;;;Language
+;;;;;;;;;;;;;;;;;;;;;;
+;;General Code;Test Case/Test Code;Specific Open Source Projects;Super Repositories;Database (B+ Tree);Graph Index;File Prefix;Natural Language;Code Fragment;Query Language;Test Case;Class/Interface Type;Software Specification;Textual Similarity;Graph Similarity;Test Case/Tested Input;Linear Programming;Search Engine;Idea;IDE Extension;
+;;;;;;;;;;;;;;;;;;;;;;
+Test-driven;CodeGenie~\cite{lazzarini_lemos_applying_2009,lemos_test_driven_2011,lazzarini_lemos_codegenie_2007,lemos_codegenie_2007};Yes;;;;Yes;;;;Yes;;;;;;Yes;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;Lemos et al.~\cite{lemos_using_2013};Yes;;;Yes;Yes;;;;Yes;;;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;Code Conjurer~\cite{janjic_lowering_2009,hummel_code_2008};;Yes;;;Yes;;;;Yes;;;;;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;EQMINER~\cite{jiang_automatic_2009};;Yes;Yes;;;;Yes;;Yes;;;;;;Yes;Yes;;Yes;;;C
+;;;;;;;;;;;;;;;;;;;;;;
+;S6~\cite{reiss_semantics_based_2009,reiss_semantics_based_2009_,reiss_specifying_2009,reiss_integrating_2013,bragdon2010code,bragdon2010code_};;;;;Yes;;;Yes;;;;;Yes;;Yes;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;Marcus and Atkinson~\cite{kessel_integrating_2018};Yes;;;Yes;Yes;;;;Yes;;;;;;;Yes;;;Yes;;
+;;;;;;;;;;;;;;;;;;;;;;
+;HUNTER~\cite{wang_hunter_2016};Yes;;;Yes;Yes;;;;;Yes;Yes;;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+Execution-based;CodeHint~\cite{galenson_codehint_2014};Yes;;Yes;;Yes;;;;;;;;Yes;Yes;;;;;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;DyCLINK~\cite{su_code_2016};Yes;;Yes;;;Yes;;;Yes;;;;;;Yes;;;;;Yes;MYSQL
+;;;;;;;;;;;;;;;;;;;;;;
