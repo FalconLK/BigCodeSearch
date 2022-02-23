@@ -1,0 +1,88 @@
+﻿Category;Approach;Output;;Dataset;;;;;;;Index;;Input;;Retrieval;;;;Presentation;;;Language
+;;;;;;;;;;;;;;;;;;;;;;
+;;General Code;API Usage;Specific Open Source Projects;Super Repositories;Developer Q &A;Language/API Documentation;Code Clone;Challenge/Competition;Existing Benchmark;Inverted;Graph Index;Natural Language;Code Fragment;Textual Similarity;Graph Similarity;Matrix Computation;Embedding Vector Similarity;Search Engine;Idea;IDE Extension;
+;;;;;;;;;;;;;;;;;;;;;;
+Machine Learning;MMMF~\cite{weimer_maximum_2009};Yes;;Yes;;;;;;;;;;Yes;;;Yes;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;Surisetty~\cite{surisetty_behavior_based_2014};Yes;;Yes;;;;;;;Yes;;Yes;;;;;Yes;;Yes;;
+;;;;;;;;;;;;;;;;;;;;;;
+;ROSF~\cite{jiang_rosf_2016};Yes;;Yes;;;;;;;Yes;;Yes;;Yes;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;Source Forager~\cite{kashyap_source_2017};Yes;;;Yes;;;;;;;Yes;;Yes;;;;Yes;;;Yes;C/C++
+;;;;;;;;;;;;;;;;;;;;;;
+;Zou et al.~\cite{zou_graph_2018};Yes;;;;Yes;Yes;;;;;Yes;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;CodeKernel~\cite{gu_codekernel_2019};;Yes;Yes;;;Yes;;;;;Yes;;Yes;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;CODEC~\cite{mukherjee_searching_2020};Yes;;;Yes;;;;;;;;;Yes;Yes;Yes;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;ExAssist~\cite{nguyen_recommending_2019,nguyen_recommendation_2019};Yes;;Yes;;;;;;;;;;Yes;Yes;;;;Yes;;Yes;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;CodeMF~\cite{hu_unsupervised_2020};Yes;;;;Yes;;;;;;;Yes;;Yes;;;;Yes;;;C\#, SQL
+;;;;;;;;;;;;;;;;;;;;;;
+Neural Network;Nguyen et al.~\cite{nguyen_combining_2017};;Yes;Yes;;;Yes;;;;;;Yes;;Yes;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;CODEnn~\cite{gu_deep_2018};Yes;;;Yes;;;;;;;;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;MP-CAT~\cite{haldar_multi_perspective_2020};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python
+;;;;;;;;;;;;;;;;;;;;;;
+;CSDA~\cite{ren_csda_2020};Yes;;;Yes;;;;;;;;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;CARLCS-CNN~\cite{shuai_improving_2020};Yes;;;Yes;;;;;;;;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;BVAE~\cite{chen_neural_2018};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;C\#, SQL
+;;;;;;;;;;;;;;;;;;;;;;
+;SCOR~\cite{akbar_scor_2019};Yes;;;Yes;;;;;;Yes;;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;SLAMPA~\cite{zhou_slampa_2018};Yes;;;;;;Yes;;;;;;Yes;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;SCS~\cite{husaintowards};Yes;;Yes;;;;;;;;;Yes;;;;;Yes;Yes;;;Python
+;;;;;;;;;;;;;;;;;;;;;;
+;NCS~\cite{sachdev_retrieval_2018};Yes;;;Yes;Yes;;;;;Yes;;Yes;;;;;Yes;Yes;;;Android
+;;;;;;;;;;;;;;;;;;;;;;
+;UNIF~\cite{cambronero_when_2019};Yes;;;Yes;Yes;;;;;Yes;;Yes;;;;;Yes;Yes;;;Android
+;;;;;;;;;;;;;;;;;;;;;;
+;Fujiwara et al.~\cite{fujiwara_code_code_2019};Yes;;;;;;Yes;;;;;;Yes;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;MMAN~\cite{wan_multi_modal_2019};Yes;;;Yes;;;;;;;;Yes;;;;;Yes;Yes;;;C
+;;;;;;;;;;;;;;;;;;;;;;
+;AdaCS~\cite{ling_adaptive_2020};Yes;;;Yes;;;;;;;;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;CoaCor~\cite{yao_coacor_2019};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python, C\#
+;;;;;;;;;;;;;;;;;;;;;;
+;CODE-NN~\cite{iyer2016summarizing};Yes;;;;Yes;;;;;;;Yes;;Yes;;;;Yes;;;C\#, SQL
+;;;;;;;;;;;;;;;;;;;;;;
+;Ye et al.~\cite{ye_leveraging_2020};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python, SQL
+;;;;;;;;;;;;;;;;;;;;;;
+;TranS$^3$~\cite{wang_trans3_2020};Yes;;;Yes;;;;;;;;Yes;;;;;Yes;Yes;;;Python
+;;;;;;;;;;;;;;;;;;;;;;
+;Yin et al.~\cite{yin_question_driven_2019};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python, SQL
+;;;;;;;;;;;;;;;;;;;;;;
+;CDRL~\cite{huang_code_description_2020};Yes;;;Yes;;;;;;;;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;Schumacher et al.~\cite{schumacher_improving_2020};Yes;;;Yes;;;;;;;;Yes;;;;;Yes;Yes;;;Python
+;;;;;;;;;;;;;;;;;;;;;;
+;HECS~\cite{li_hierarchical_2020};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python, C\#
+;;;;;;;;;;;;;;;;;;;;;;
+;MSR~\cite{wen_multi_2020};Yes;;Yes;;;;;;;;;Yes;;Yes;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;PSCS~\cite{sun_pscs_2020};Yes;;;;;;;Yes;;;;Yes;;;;;Yes;Yes;;;Python, Javascript, Java
+;;;;;;;;;;;;;;;;;;;;;;
+;Heyman and Cutsem~\cite{heyman_neural_2020};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python
+;;;;;;;;;;;;;;;;;;;;;;
+;COIL~\cite{li_learning_2020};Yes;;;Yes;;;;;Yes;;;Yes;;;;;Yes;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;CoNCRA~\cite{de_rezende_martins_concra_2020};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python, SQL
+;;;;;;;;;;;;;;;;;;;;;;
+;COSEA~\cite{wang_cosea_2020};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python, SQL
+;;;;;;;;;;;;;;;;;;;;;;
+;DGMS~\cite{ling_deep_2020};Yes;;;Yes;Yes;;;Yes;Yes;;;Yes;;;;;Yes;Yes;;;Java, Python
+;;;;;;;;;;;;;;;;;;;;;;
+;APIRec-CST~\cite{chen_holistic_2020};;Yes;;Yes;;Yes;;;;;;Yes;;;;;;Yes;;;Java
+;;;;;;;;;;;;;;;;;;;;;;
+;Zhao et al.~\cite{zhao_adversarial_2020};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;Python, SQL
+;;;;;;;;;;;;;;;;;;;;;;
+;CRaDLe~\cite{gu_cradle_2020};Yes;;;;;;;Yes;;;;Yes;;;;;Yes;Yes;;;Python
+;;;;;;;;;;;;;;;;;;;;;;
+;NJACS~\cite{hu_neural_2020};Yes;;;;Yes;;;;;;;Yes;;;;;Yes;Yes;;;C\#, SQL, Java, Python
+;;;;;;;;;;;;;;;;;;;;;;
