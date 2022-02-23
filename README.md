@@ -1,5 +1,7 @@
 # Code Search Survey supporting material
 
+The repository consists of the materials including the bibliography file (reference citation file), the evaluation methods and taxonomy in CSV format. 
+
 ### Structure
 
 ```
