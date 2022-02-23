@@ -1,0 +1,10 @@
+﻿Approach;Input;Dataset;;Index;;;Input;;;Retrieval;;Presentation;;Language
+;;;;;;;;;;;;;;
+;Sketches/GUI;Specific Open Source Projects;Super Repositories;Inverted;Database (B+ Tree);Graph Index;Sketch File;Natural Language;Code Fragment;Textual Similarity;Graph Similarity;Search Engine;IDE Extension;
+;;;;;;;;;;;;;;
+GUIFetch~\cite{behrang_guifetch_2018};Yes;;Yes;;Yes;;Yes;Yes;;Yes;;Yes;;Java GUI
+;;;;;;;;;;;;;;
+SUSIE~\cite{reiss_seeking_2018};Yes;;Yes;;;;;Yes;Yes;Yes;;Yes;;Java GUI
+;;;;;;;;;;;;;;
+Xie et al.~\cite{xie_user_2019};Yes;Yes;;Yes;;Yes;Yes;;;Yes;Yes;;Yes;Java GUI
+;;;;;;;;;;;;;;
